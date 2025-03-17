@@ -1,5 +1,8 @@
 # Pizza_Sales_Analysis
 
+
+<img align="center" alt="coding" width="600" height="400" src="Pizza sales Analysis.png">
+
 * Conducted Pizza Sales Analysis using Excel and Microsoft SQL Server.
 * Executed SQL queries to validate dashboard insights.
 * Analyzed key KPIs: Total Revenue, Average Order Value, Total Orders, and Total Pizzas Sold.
