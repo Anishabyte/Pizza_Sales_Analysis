@@ -23,3 +23,4 @@ KEY INSIGHTS :
 6. WORST
 * The Brie Carre is at the bottom in both orders and revenue .
 
+![Alt text](images/your-image.png)
