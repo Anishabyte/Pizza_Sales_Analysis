@@ -23,4 +23,4 @@ KEY INSIGHTS :
 6. WORST
 * The Brie Carre is at the bottom in both orders and revenue .
 
-![Alt text](images/Pizza sales Analysis.png)
+![Alt text](Pizza sales Analysis.png)
