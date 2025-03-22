@@ -60,4 +60,4 @@ This analysis provides valuable insights into customer preferences, peak sales p
 <img align="center" alt="coding" width="600" height="400" src="Pizza sales Analysis.png">
 
 
-![Alt text](Pizza sales Analysis.png)
+
